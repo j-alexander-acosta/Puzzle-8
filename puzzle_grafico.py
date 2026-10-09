@@ -18,7 +18,7 @@ except ImportError:
 
 
 # =====================================================================
-# LÓGICA DEL PROBLEMA (Basada en el código fuente proporcionado)
+# LÓGICA DEL PROBLEMA
 # =====================================================================
 
 def is_in(state, goal_list):
